@@ -1,7 +1,6 @@
 # 📸 Instagram Clone  
 A social media application replicating core Instagram features with modern UI/UX using **Flutter** and **Firebase**.
 
-![App Demo](https://via.placeholder.com/800x400?text=Demo+Video+Here) <!-- Replace with actual demo video -->
 
 ## ✨ Key Features
 - **User Authentication** 🔑
